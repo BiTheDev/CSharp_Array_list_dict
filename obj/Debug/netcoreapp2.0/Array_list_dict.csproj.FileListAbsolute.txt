@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/obj/Debug/netcoreapp2.0/Array_list_dict.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/obj/Debug/netcoreapp2.0/Array_list_dict.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/obj/Debug/netcoreapp2.0/Array_list_dict.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/bin/Debug/netcoreapp2.0/Array_list_dict.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/bin/Debug/netcoreapp2.0/Array_list_dict.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/bin/Debug/netcoreapp2.0/Array_list_dict.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/bin/Debug/netcoreapp2.0/Array_list_dict.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/bin/Debug/netcoreapp2.0/Array_list_dict.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/obj/Debug/netcoreapp2.0/Array_list_dict.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/obj/Debug/netcoreapp2.0/Array_list_dict.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Array_list_dict/obj/Debug/netcoreapp2.0/Array_list_dict.csprojResolveAssemblyReference.cache
